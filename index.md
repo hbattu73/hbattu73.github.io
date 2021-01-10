@@ -1,11 +1,15 @@
 # Welcome to Hemanth's Github Page
 
 ## Introduction
+
+<img src="./beachshot.jpg" alt="me" width=200 height=250>
+
 I am a third year Computer Science student studying here at UC San Diego. I was born in India, but grew up in Fremont, CA almost my entire life. Here are a couple more things about me:
 -  I love watching sports. My favorite sport teams are the **Golden State Warriors** and the **San Francisco 49ers**. I also keep up to date with track and field news, especially the sprinting events
--  I only use one form of social media, and that is [Reddit](https://www.reddit.com/) 
+-  I only use one form of social media, which is [Reddit](https://www.reddit.com/) 
 -  In my free time, I love to walk or jog on the trails in my hometown
-   - My frequent choice of trails are the ones in **Coyote Hills**
+   - My frequent choice of trails are the ones in **Coyote Hills** <br>
+      <img src="https://goldengateaudubon.org/wp-content/uploads/CH-Green-Hills-JerryTing.jpg" alt="Coyote Hills" width=450 height=250>
 -  I have to listen to music when I'm practically doing *anything* (even studying!)
    - My favorite genre is **Hip-Hop/R&B** and my favorite artists include **Smino**, **Isaiah Rashad**, **Kid Cudi**, **Frank Ocean**, and **Young Thug**
    - I also love to listen to older music from time to time including artists like **Elton John**, the **Beatles**, and **Prince**
@@ -33,7 +37,7 @@ Here are a couple of goals I set for myself in the short-term and long-term:
 - My favorite quote is that from George Carlin:
 
   > Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?
-- To this day, I have not tried anything that pleases my tastebuds more than the **Spicy Deluxe** from Chick-fil-a
+- To this day, I have not tried anything that pleases my tastebuds more than the Spicy Deluxe sandwich from **Chick-fil-a**
 - Over quarantine, I developed a web application as a personal project that searches for available food choices and plots their locations on a map
   - To play with the app in Docker, run `docker run -d -p 5000:5000 --name foodbox-app hbattu/foodbox`
   - To stop the app, run `docker stop foodbox-app`
